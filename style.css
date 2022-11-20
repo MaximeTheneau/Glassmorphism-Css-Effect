@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(80deg, #f1cc26d3, #859626c5);
+  }
+
+.morphism{
+    padding: 1rem;
+    background: rgba( 255, 255, 255, 0.45 );
+    /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);*/
+    backdrop-filter: blur(10px);
+    width: 90%;
+    height: 90%;
+    margin: auto;
+
+}
